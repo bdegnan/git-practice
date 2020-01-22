@@ -29,6 +29,7 @@ Wolstonecraft
 - Marx: Das Kapital, pages 894-1632
 - Du Bois: Black Reconstruction, pages 155-286
 - Wollstonecraft: Vindication, pages 233-321
+- Self-selected reading
 
 *note: you will be expected to participate in all class discussion*
 

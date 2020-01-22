@@ -1,0 +1,35 @@
+echo is for repeating things
+cat is for reading text files
+pwd is to print the working directory
+cd is to change the directory
+ls is to list what is in the directory
+cd ~ is to go back to home
+cd .. is to go back once
+> is to write over a text file
+>> is to add to a text file
+mkdir is to make a new directory
+mv is to move an item to a new location (e.g. mv foo.text ~/Desktop/projects/command-line)
+less is to read text file one page at a time
+head is to read the very first section of a text file
+tail is read the very last section of a text file 
+wc -w count the number of words in a text file
+wc -l count the number of lines in a text file
+wc -m is to count the number of characters in a text file
+uniq is to remove duplicates
+d is to identify duplicates
+grep is to locate an entry within a text file ("global regular expression print")
+-i is to ignore capitalization   
+code is to create a text file and open using VScode or to open existing file in VScode
+touch is to create a text file and save it to the folder   
+
+git config --global user.name "First Last" is to set name in git
+git config --global user.email email@example.com to set e-mail
+git config --list is to check git setup
+git init is to initialize repository (tell Git to pay attention to folder)    
+git status is to check commit status
+git add syllabus.md is to tell git that you are about to do something with file
+git commit -m "Initial commit of syllabus file" is to leave message/flag regarding file
+git remote add origin git@github.com:<username>/<repository-name> is to setup push to GitHub 
+git push -u origin master is to push file for the first time to git hub 
+git push origin master is to push file to git hub additional times 
+ 
